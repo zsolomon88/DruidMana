@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Druid Mana
+## Notes: Shows your mana while shapeshifted as a druid.
+## Author: DruidMana
+## Version: 1.0.0
+
+DruidMana.lua
